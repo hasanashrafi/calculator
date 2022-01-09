@@ -1,0 +1,27 @@
+{
+  "name": "calculator-javascript",
+  "version": "1.0.0",
+  "description": "Calculator With JavaScript",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehsangazar/calculator-javascript.git"
+  },
+  "author": "Ehsan Gazar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ehsangazar/calculator-javascript/issues"
+  },
+  "homepage": "https://github.com/ehsangazar/calculator-javascript#readme",
+  "devDependencies": {
+    "@babel/core": "^7.11.4",
+    "@babel/plugin-proposal-class-properties": "^7.10.4",
+    "@babel/preset-env": "^7.11.0",
+    "babel-loader": "^8.1.0",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
